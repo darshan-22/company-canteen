@@ -1,0 +1,22 @@
+{
+  "name": "company-canteen",
+  "version": "1.0.0",
+  "description": "A web application for company canteen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshan-22/company-canteen.git"
+  },
+  "author": "darshan-22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshan-22/company-canteen/issues"
+  },
+  "homepage": "https://github.com/darshan-22/company-canteen#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
